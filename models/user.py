@@ -1,10 +1,13 @@
 #!/usr/bin/python3
-"""This module creates a User class"""
+"""user class, subclass of BaseModel
+"""
+
 from models.base_model import BaseModel
+import json
 
 
 class User(BaseModel):
-    """Class for managing user objects"""
+    '''subclass of BaseModel class'''
 
     email = ""
     password = ""
