@@ -1,10 +1,14 @@
 #!/usr/bin/python3
-"""This module creates a User class"""
-
+"""
+State class, a subclass of BaseModel
+"""
 from models.base_model import BaseModel
 
 
 class State(BaseModel):
-    """Class for managing state objects"""
-
+    """
+    A subclass of BaseModel class
+    Public class attribute:
+        name: (str)
+    """
     name = ""
