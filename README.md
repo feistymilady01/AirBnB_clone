@@ -104,9 +104,9 @@ Examlf or **all <class name\>** --or-- **<class name\>.all()** |
 
 ## Authors
 
-Ehoneah Obed | Email: [ehoneahobed](mailto:ehoneahobed@hotmail.com) 
+Enemuo Chioma | Email: [Chynet35](mailto:enemuochioma77@gmail.com) 
 
-Anthony Etim | Github: [otoobongekim](mailtp and running on your local machine (Linux distro) for development and testing purposes.
+Susan Bamgbade | Github: [feistymilady01](mail to:pricelessblinks@gmail.com) mail to and running on your local machine (Linux distro) for development and testing purposes.
 
 ## Installing
 
